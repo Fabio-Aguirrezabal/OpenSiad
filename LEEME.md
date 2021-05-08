@@ -1,1 +1,2 @@
+# OpenSiad
 Se trata de una re-implementación de un antiguo proyecto escolar inspirado en el "Internet de las cosas" una tecnología emergente en el 2015 por el público más en general, implementando la automatización de las casas de las personas y oficinas de trabajo, con el objetivo final de hacer la vida más confortable, sin embargo nosotros como equipo decidimos abordarlo desde un punto de vista humanitario, brindando a las personas discapacitadas las herramientas que necesitan para ser autosuficientes y reducir su costo de vida a largo plazo.
